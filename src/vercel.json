@@ -2,27 +2,27 @@
   "routes": [
     {
       "src": "/",
-      "dest":"/"
+      "dest":"/Home"
     },
     {
       "src": "/hotel",
-      "dest": "/"
+      "dest": "/hotel"
     },
     {
      "src": "/AboutUs",
-     "dest":"/"
+     "dest":"/AboutUs"
     },
     {
       "src": "/Gallery",
-      "dest": "/"
+      "dest": "/Gallery"
     },
     {
      "src": "/News",
-      "dest": "/"
+      "dest": "/News"
     },
     {
       "src": "/Contact",
-      "dest":"/"
+      "dest":"/Contact"
     }
   ]
 }
