@@ -1,5 +1,28 @@
 {
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/" }
+  "routes": [
+    {
+      "src": "/",
+      "dest":"/"
+    },
+    {
+      "src": "/hotel",
+      "dest": "/"
+    },
+    {
+     "src": "/AboutUs",
+     "dest":"/"
+    },
+    {
+      "src": "/Gallery",
+      "dest": "/"
+    },
+    {
+     "src": "/News",
+      "dest": "/"
+    },
+    {
+      "src": "/Contact",
+      "dest":"/"
+    }
   ]
 }
